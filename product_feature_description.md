@@ -40,7 +40,7 @@ The system automatically extracts relevant keywords from the target events recom
 - Automatic generation without user intervention
 - Optimization for event search relevance
 
-### 4. Tradeshow Search
+### 4. Tradeshow Search and Local Events Search 
 
 **Description:**
 Using the business profile, extracted keywords, and target events recommendation, the system searches for and identifies the most relevant tradeshows and conferences that align with the user's business needs and goals.
@@ -85,23 +85,22 @@ For each recommended event, the system generates a detailed, actionable strategy
 - Goal-specific recommendations
 - Practical networking advice
 
+### 6. Conversion Path Generation
+Advanced Features:
+- Annonoymous Invite / Open Invite
+- Event Deep Research/ Auto registration
+  
 ## Target Users
 
 - **Founders and Entrepreneurs**: Looking to connect with potential customers, investors, or business partners
 - **Business Development Professionals**: Seeking to identify new partnership opportunities and expand their network
-- **Recruiters and HR Professionals**: Searching for events to find qualified talent
 - **Sales Professionals**: Looking to connect with potential customers and clients
 - **Investors**: Seeking promising startups and investment opportunities
+(maybe: - **Recruiters and HR Professionals**: Searching for events to find qualified talent)
 
 ## Value Proposition
 
-Network AI transforms the event discovery process by:
-
-1. **Saving Time**: Automatically identifying the most relevant events without manual searching
-2. **Increasing Relevance**: Personalizing recommendations based on specific business needs and goals
-3. **Improving ROI**: Providing actionable strategies to maximize the value of event attendance
-4. **Enhancing Discovery**: Uncovering events that might not be found through traditional search methods
-5. **Streamlining Planning**: Offering comprehensive information to make informed decisions about which events to attend
+https://docs.google.com/document/d/1Z76svNE3VzaoMAWTPzUjmTXfAMYedZCyd0znHcjyw_A/edit?tab=t.0 
 
 ## Technical Implementation
 
@@ -113,16 +112,3 @@ The product is implemented as a web application with:
 - Event data sourced from Luma Events and web sources like 10times.com
 - A responsive web interface for user interaction
 
-## Future Enhancements
-
-Potential future enhancements to the product include:
-
-1. **Calendar Integration**: Direct addition of events to user calendars
-2. **Networking Recommendations**: AI-powered suggestions for specific people to connect with at events
-3. **Event ROI Tracking**: Tools to track and measure the return on investment from event attendance
-4. **Mobile App**: A dedicated mobile application for on-the-go event discovery
-5. **Expanded Event Sources**: Integration with additional event databases and sources
-6. **Personalized Event Agendas**: Custom agenda recommendations for multi-day conferences
-7. **Networking Preparation**: Automated generation of talking points and conversation starters based on the event and attendees
-
-This product represents a significant advancement in AI-powered event discovery and networking strategy, providing business professionals with a powerful tool to identify and maximize the value of relevant networking opportunities.
