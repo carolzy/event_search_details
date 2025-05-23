@@ -1,4 +1,4 @@
-# Network AI Architecture
+# Network AI Architecture - This part only covers Tradeshow Search
 
 This document outlines the high-level architecture of the Network AI system, focusing on how the Target Events, Keywords, Business Profile, and Tradeshow Search components interact.
 
