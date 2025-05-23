@@ -2,9 +2,9 @@
 
 ## Product Overview
 
-Network AI is an intelligent event recommendation system designed to help business professionals discover the most relevant networking events, tradeshows, and conferences based on their specific business profile and goals. The system leverages advanced AI to analyze business information, generate personalized event recommendations, and provide actionable strategies for maximizing the value of attending these events.
+https://docs.google.com/document/d/1Z76svNE3VzaoMAWTPzUjmTXfAMYedZCyd0znHcjyw_A/edit?tab=t.0 
 
-## Key Features
+## Key Features (for now - Carol is revising)
 
 ### 1. Business Profile Analysis
 
